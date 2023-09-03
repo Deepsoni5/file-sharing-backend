@@ -1,0 +1,26 @@
+while($row=mysqli_fetch_assoc($run))
+                //     {
+                //     $id=$row['id'];
+                //     $title=$row['title'];
+                //     $price=$row['price'];
+                //     $image_name=$row['image_name'];
+
+                //     ?> -->
+                <!-- //      <div class="content"> -->
+                     
+                <!-- //             <div class="categories">
+                //                     <div class="imagebox">
+                //                          <img src="../itemimage/<?php echo $image_name;?>" alt="">
+                //                          <h3><?php echo $title;?></h3>
+                //                          <h5><?php echo $price?></h5>
+                //                          <a href="order.php?id=<?php echo $id?>" class="btn">Order Now</a>
+                //                     </div>
+                //              </div>
+                             
+                //         </div>
+                 //         <?php
+                // }
+                // ?> 
+                //     <div class="clearfix"></div>
+                //     </div> -->
+            <?
